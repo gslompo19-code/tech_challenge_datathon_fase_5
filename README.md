@@ -151,7 +151,70 @@ A análise das reclamações negativas mostrou quatro grandes eixos de dor do cl
 │   │   └── tokenizer.pkl
 │   └── graficos/
 ├── README.md
-└── requirements.txt    '''
+└── requirements.txt   
+    
+###
 
----
+
+```bash
+
+🚀 Como Executar
+1. Clonar o repositório
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+
+2. Criar ambiente virtual
+python -m venv venv
+
+3. Ativar ambiente virtual
+
+Windows
+
+venv\Scripts\activate
+
+Linux/Mac
+
+source venv/bin/activate
+
+4. Instalar dependências
+pip install -r requirements.txt
+5. Executar o notebook
+
+Abra o notebook em Jupyter ou Colab:
+
+notebooks/analise_sentimentos_fase5.ipynb
+
+📦 Principais Bibliotecas
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+tensorflow
+imbalanced-learn
+wordcloud
+
+🔮 Melhorias Futuras
+rotulagem manual parcial para validação da heurística
+comparação com modelos baseados em Transformers
+classificação multiclasses
+dashboard interativo
+explicabilidade com SHAP ou LIME
+
+👩‍💻 Autores
+
+Ariceny da Silva Huguenin
+Flavia Helena de Almeida
+Glaucia Cristina Slompo
+Leonardo Chaves Noronha da Silva
+Marcelo Soares de Albuquerque
+
+
+Projeto desenvolvido para o Datathon – Fase 5
+
+📚 Licença
+
+Projeto com finalidade acadêmica e educacional.
 
