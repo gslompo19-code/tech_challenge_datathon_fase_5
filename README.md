@@ -151,10 +151,11 @@ A análise das reclamações negativas mostrou quatro grandes eixos de dor do cl
 │   │   └── tokenizer.pkl
 │   └── graficos/
 ├── README.md
-└── requirements.txt
+└── requirements.txt    '''
 
 ---
 
+###
 🚀 Como Executar
 1. Clonar o repositório
 
