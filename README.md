@@ -115,8 +115,6 @@ A arquitetura principal foi uma **BiLSTM (Bidirectional LSTM)**, adequada para c
 - **Negativa:** precision `0.93` | recall `0.94` | f1-score `0.94`
 - **Positiva:** precision `0.76` | recall `0.71` | f1-score `0.73`
 
-✅ Após os ajustes de pré-processamento e balanceamento, houve melhora importante na **precisão da classe positiva**, que era o principal ponto de atenção.
-
 ---
 
 ## 🔎 Principais Insights
