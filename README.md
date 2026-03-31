@@ -147,7 +147,7 @@ A análise das reclamações negativas mostrou quatro grandes eixos de dor do cl
 │   ├── modelo/
 │   │   ├── modelo_bilstm_sentimento.h5
 │   │   └── tokenizer.pkl
-│   └── graficos/
+│  
 ├── README.md
 └── requirements.txt   
     
